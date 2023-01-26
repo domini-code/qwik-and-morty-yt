@@ -36,3 +36,13 @@ lerna-debug.log*
 # Yarn
 .yarn/*
 !.yarn/releases
+
+# Local Netlify folder
+.netlify
+
+# Netlify
+
+# Vercel
+.vercel
+
+.vercel
